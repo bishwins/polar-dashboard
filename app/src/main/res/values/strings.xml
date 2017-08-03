@@ -1,8 +1,8 @@
 <resources>
 
     <!-- App Strings -->
-    <string name="app_name">Polar</string>
-    <string name="app_name_wallpaper">Polar Wallpaper</string>
+    <string name="app_name">Blorbs</string>
+    <string name="app_name_wallpaper">Blorbs Wallpaper</string>
 
     <string name="wallpapers">Wallpapers</string>
     <string name="icons">Icons</string>
@@ -16,7 +16,7 @@
     <string name="finish_holo_apply">Go To Appearance settings -> Icon Packs and select this icon pack from the list.</string>
     <string name="finish_go_apply">Go theme applied!</string>
     <string name="dismiss">Dismiss</string>
-    <string name="muzei_description">Polar wallpapers.</string>
+    <string name="muzei_description">Blorbs wallpapers.</string>
     <string name="changelog" translatable="false">Changelog</string>
     <string name="error">Error</string>
     <string name="search_icons">Search icons…</string>
