@@ -448,7 +448,7 @@
     <item component="ComponentInfo{com.creditkarma.mobile/com.creditkarma.mobile.ui.WelcomeActivity}" drawable="credit_karma" />
     <item component="ComponentInfo{com.dashlane/com.dashlane.ui.activities.SplashScreen}" drawable="dashlane" />
     <item component="ComponentInfo{com.delectable.mobile/com.delectable.mobile.MainActivity}" drawable="delectable_wine" />
-    <item component="ComponentInfo{com.duosecurity.duomobile/com.duosecurity.duomobile.screens.AccountListActivity}" drawable="duo_security" />
+    <item component="ComponentInfo{com.duosecurity.duomobile/com.duosecurity.duomobile.screens.AccountListActivity}" drawable="duo_mobile" />
     <item component="ComponentInfo{org.me.mobiexpensifyg/org.me.mobiexpensifyg.ExpensifyActivityBase}" drawable="expensify" />
     <item component="ComponentInfo{com.expressvpn.vpn/com.expressvpn.vpn.MainActivity}" drawable="expressvpn" />
     <item component="ComponentInfo{com.joelapenna.foursquared/com.joelapenna.foursquared.MainActivity}" drawable="foursquare_city_guide" />

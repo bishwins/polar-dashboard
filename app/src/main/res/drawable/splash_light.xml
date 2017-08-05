@@ -6,7 +6,7 @@
     <item>
         <bitmap
             android:gravity="center"
-            android:src="@drawable/homepage_landing_icon" />
+            android:src="@drawable/blorbs" />
     </item>
 
 </layer-list>
