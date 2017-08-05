@@ -455,7 +455,7 @@
     <AppIcon name="com.creditkarma.mobile/com.creditkarma.mobile.ui.WelcomeActivity" image="credit_karma" />
     <AppIcon name="com.dashlane/com.dashlane.ui.activities.SplashScreen" image="dashlane" />
     <AppIcon name="com.delectable.mobile/com.delectable.mobile.MainActivity" image="delectable_wine" />
-    <AppIcon name="com.duosecurity.duomobile/com.duosecurity.duomobile.screens.AccountListActivity" image="duo" />
+    <AppIcon name="com.duosecurity.duomobile/com.duosecurity.duomobile.screens.AccountListActivity" image="duo_mobile" />
     <AppIcon name="org.me.mobiexpensifyg/org.me.mobiexpensifyg.ExpensifyActivityBase" image="expensify" />
     <AppIcon name="com.expressvpn.vpn/com.expressvpn.vpn.MainActivity" image="expressvpn" />
     <AppIcon name="com.joelapenna.foursquared/com.joelapenna.foursquared.MainActivity" image="foursquare_city_guide" />

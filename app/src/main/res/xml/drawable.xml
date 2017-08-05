@@ -2,6 +2,9 @@
 <resources>
     <version>1</version>
 
+
+
+
     <category title="New Icons" />
     <item drawable="alltrails" />
     <item drawable="amazon_alexa" />
@@ -20,7 +23,6 @@
     <item drawable="credit_karma" />
     <item drawable="dashlane" />
     <item drawable="delectable_wine" />
-    <item drawable="duo" />
     <item drawable="evie_launcher" />
     <item drawable="expensify" />
     <item drawable="expressvpn" />
@@ -277,8 +279,7 @@
     <item drawable="drawer_trans" />
     <item drawable="dropbox" />
     <item drawable="dunkin_donuts" />
-    <item drawable="duo" />
-    <item drawable="duo" />
+    <item drawable="duo_mobile" />
     <item drawable="duolingo" />
     <item drawable="ebay" />
     <item drawable="ecobee" />

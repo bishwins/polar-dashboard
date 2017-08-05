@@ -23,7 +23,7 @@
     <bool name="wallpapers_allow_download">true</bool>
 
     <!-- Email used to send icon requests, leave empty to disable this feature. -->
-    <string name="icon_request_email">fake-email@fake-website.com</string>
+    <string name="icon_request_email">apps@chrisbishop.com</string>
 
     <!-- Max number of icons that can be sent per request. -1 disables max count. The interval must ALSO be set below. -->
     <integer name="icon_request_maxcount">-1</integer>
@@ -45,7 +45,7 @@
     <bool name="persist_selected_page">true</bool>
 
     <!-- Email used to send feedback, leave empty to disable this feature. -->
-    <string name="feedback_email">fake-email@fake-website.com</string>
+    <string name="feedback_email">apps@chrisbishop.com</string>
 
     <!-- %1$s gets replaced with the name of your icon pack -->
     <string name="feedback_subject_line">%1$s Feedback</string>
@@ -103,7 +103,7 @@
 
     <!-- Leave empty to disable. A URL to a Polar Request Manager server, e.g. https://polar.aidanfollestad.com -->
     <string name="polar_backend_host">
-        
+
     </string>
 
     <!-- Host must also be filled in first. An app API key from Polar Request Manager. -->
