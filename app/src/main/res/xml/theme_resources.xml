@@ -35,6 +35,7 @@
     <AppIcon name="com.dropbox.android/com.dropbox.android.activity.DropboxBrowser" image="dropbox" />
 
     <AppIcon name="com.ebay.mobile/com.ebay.mobile.activities.eBay" image="ebay" />
+    <AppIcon name="com.ebay.mobile/com.ebay.mobile.activities.MainActivity" image="ebay" />
     <AppIcon name="com.espn.score_center/com.espn.sportscenter.ui.LaunchActivity" image="espn" />
     <AppIcon name="com.expedia.bookings/com.expedia.bookings.activity.SearchActivity" image="expedia" />
 
@@ -64,6 +65,7 @@
     <AppIcon name="com.philips.lighting.hue/com.philips.lighting.hue.HueContentActivity" image="hue_old" />
     <AppIcon name="com.hoteltonight.android.prod/com.hoteltonight.android.prod.activity.SplashActivity" image="hotel_tonight" />
     <AppIcon name="com.webascender.callerid/com.whitepages.cid.ui.home.HomeScreenActivity" image="hiya" />
+    <AppIcon name="com.webascender.callerid/com.hiya.stingray.ui.SplashActivity" image="hiya" />
     <AppIcon name="com.google.android.talk/com.google.android.talk.SigningInActivity" image="hangout" />
     <AppIcon name="com.hbo.hbonow/com.hbo.hbonow.splash.SplashActivity" image="hbo_now" />
     <AppIcon name="com.hulu.plus/com.hulu.features.splash.SplashActivity" image="hulu2" />
@@ -350,10 +352,8 @@
     <AppIcon name="com.google.android.inputmethod.latin/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity" image="gboard" />
     <AppIcon name="com.android.keepass/com.android.keepass.KeePass" image="keepassdroid" />
     <AppIcon name="com.grarak.kerneladiutor/com.grarak.kerneladiutor.activities.StartActivity" image="kernel_adiutor" />
-    <AppIcon name="it.mvilla.android.quote/it.mvilla.android.quote.ui.activity.WelcomeActivity
-" image="newsfold" />
-    <AppIcon name="com.urbandroid.lux/com.urbandroid.lux.MainActivity
-" image="twilight" />
+    <AppIcon name="it.mvilla.android.quote/it.mvilla.android.quote.ui.activity.WelcomeActivity" image="newsfold" />
+    <AppIcon name="com.urbandroid.lux/com.urbandroid.lux.MainActivity" image="twilight" />
     <AppIcon name="com.latuabancaperandroid/com.latuabancaperandroid.presentation.activity.SplashActivity" image="intesa_sanpaolo_mobile" />
     <AppIcon name="org.telegram.messenger/org.telegram.ui.LaunchActivity" image="telegram" />
     <AppIcon name="com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaShortcutHandler" image="nova_launcher" />
@@ -485,6 +485,66 @@
     <AppIcon name="com.babycenter.momfeed/com.babycenter.momfeed.ui.landing.SplashActivity" image="babycenter_parenthood" />
     <AppIcon name="ch.protonmail.android/ch.protonmail.android.activities.SplashActivity" image="protonmail" />
     <AppIcon name="com.ubercab/com.ubercab.presidio.app.core.root.RootActivity" image="uber" />
+
+    <AppIcon name="com.google.android.apps.adwords/com.google.android.apps.adwords.InitialLoadingActivity" image="adwords" />
+    <AppIcon name="com.thumbtack.consumer/com.thumbtack.punk.MainActivity" image="thumbtack" />
+    <AppIcon name="com.nintendo.znca/md533b117125e779ee5bd2742126a94a846.MainActivity" image="nintendo_switch_online" />
+    <AppIcon name="com.syncedsynapse.eventflowwidget/com.syncedsynapse.eventflowwidget.agenda.config.AgendaConfigurationLauncherActivity" image="event_flow_widget" />
+    <AppIcon name="com.bitpay.copay/com.bitpay.copay.MainActivity" image="copay" />
+    <AppIcon name="io.coninalarm/io.coninalarm.activity.SplashActivity" image="coinalarm" />
+    <AppIcon name="com.sonymobile.androidapp.audiorecorder/com.sonymobile.androidapp.audiorecorder.activity.MainActivity" image="audio_recorder" />
+
+    <AppIcon name="com.chrisbishop.blorbs/com.afollestad.polar.ui.MainActivity" image="blorbs" />
+    <AppIcon name="com.citc.asap/com.citc.asap.activities.LaunchActivity" image="asap_launcher" />
+
+    <AppIcon name="com.zhiliaoapp.musically/com.zhiliaoapp.musically.activity.SplashActivity" image="musically" />
+    <AppIcon name="com.fortafygames.colorswitch/com.migal.android.SplashActivity" image="color_switch" />
+    <AppIcon name="com.talzz.datadex/com.talzz.datadex.activities.main.SplashScreenActivity" image="datadex" />
+    <AppIcon name="com.okasoft.ygodeck/com.okasoft.ygodeck.MainActivity" image="ygodeck" />
+    <AppIcon name="cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity" image="wps_office" />
+    <AppIcon name="com.bluecorner.totalgym/com.bluecorner.totalgym.activities.Activity_Portada" image="total_fitness" />
+    <AppIcon name="com.tmobile.tuesdays/com.tmobile.tuesdays.activities.MainActivity_" image="tmobile_tuesdays" />
+    <AppIcon name="com.whilerain.guitartuner/com.whilerain.guitartuner.screen.SplashActivity" image="strings_tuner" />
+    <AppIcon name="com.google.android.stardroid/com.google.android.stardroid.activities.SplashScreenActivity" image="sky_map" />
+    <AppIcon name="com.pdanet/com.foxfi.HotspotSettings" image="pdanetplus" />
+    <AppIcon name="com.offerup/com.offerup.android.activities.SplashActivity" image="offerup" />
+    <AppIcon name="gg.op.lol.android/gg.op.lol.android.activity.SplashActivity" image="opgg" />
+    <AppIcon name="com.nbadigital.gametimelite/com.nbadigital.gametimelite.features.splash.SplashActivity" image="nba" />
+    <AppIcon name="com.sangaku.maths.en/com.sangaku.maths.en.MainActivity" image="math_theory" />
+    <AppIcon name="jp.pokemon.koiking/org.cocos2dx.cpp.AppActivity" image="magikarp" />
+    <AppIcon name="com.imgur.mobile/com.imgur.mobile.Launcher" image="imgur" />
+    <AppIcon name="com.disney.wdpro.dlr/com.disney.wdpro.park.activities.SplashActivity" image="disneyland" />
+    <AppIcon name="com.discoverfinancial.mobile/com.discover.mobile.common.login.LoginActivity" image="discoverchegg" />
+    <AppIcon name="com.chegg/com.chegg.home.HomeScreenActivity" image="chegg" />
+    <AppIcon name="com.larsontexts.CalcChat/com.larsontexts.CalcChat.MainActivity" image="calcchat" />
+    <AppIcon name="com.piriform.ccleaner/com.piriform.ccleaner.ui.activity.MainActivity" image="ccleaner" />
+    <AppIcon name="org.arrowhead.mobile/com.wrgweb.mobilecommon30minus.ui.SplashScreen" image="arrowhead" />
+    <AppIcon name="imoblife.toolbox.full/imoblife.toolbox.full.ASplash" image="allinone_toolbox" />
+    <AppIcon name="com.aetn.aetv.watch/com.aetn.watch.activities.SplashActivity" image="ae" />
+    <AppIcon name="com.sm.SlingGuide.Dish/com.sm.SlingGuide.Dish.DishLogin" image="dish" />
+    <AppIcon name="com.mtvn.mtvPrimeAndroid/com.vmn.android.me.MainActivity" image="mtv" />
+    <AppIcon name="com.tranzmate/com.moovit.home.HomeActivity" image="moovit" />
+    <AppIcon name="com.boost.care/com.sprint.app.ui.home.SplashActivity" image="myboost" />
+    <AppIcon name="com.aspiro.tidal/com.aspiro.wamp.LoginFragmentActivity" image="tidal" />
+    <AppIcon name="com.sei.android/com.sei.android.views.SplashActivity" image="seven_eleven" />
+    <AppIcon name="com.alibaba.aliexpresshd/com.alibaba.aliexpresshd.module.home.MainActivity" image="aliexpress" />
+    <AppIcon name="com.google.android.apps.cultural/com.google.android.apps.cultural.activity.WebViewActivity" image="artsculture" />
+    <AppIcon name="com.adsk.sketchbook/com.adsk.sketchbook.SketchBook" image="autodesk_sketchbook" />
+    <AppIcon name="com.infonow.bofa/com.infonow.bofa.Launcher" image="bofa" />
+    <AppIcon name="com.citymapper.app.release/com.citymapper.app.MainActivity" image="citymapper" />
+    <AppIcon name="com.discord/com.discord.screens.ScreenAux$Main" image="dischord" />
+    <AppIcon name="com.google.android.apps.adm/com.google.android.apps.adm.MainActivity" image="find_my_device" />
+    <AppIcon name="com.joaomgcd.join/com.joaomgcd.join.activity.ActivityMain" image="join_by_joaoapps" />
+    <AppIcon name="jp.co.hit_point.nekoatsume/jp.co.hit_point.nekoatsume.GActivity" image="neko_atsume" />
+    <AppIcon name="com.laurencedawson.reddit_sync.pro/com.laurencedawson.reddit_sync.ui.activities.HomeActivity" image="sync_reddit" />
+    <AppIcon name="com.farproc.wifi.analyzer/com.farproc.wifi.analyzer.MainScreen" image="wifi_analyzer" />
+    <AppIcon name="com.yelp.android/com.yelp.android.ui.activities.RootActivity" image="yelp" />
+    <AppIcon name="com.enflick.android.TextNow/com.enflick.android.TextNow.activities.WelcomeActivity" image="textnow" />
+    <AppIcon name="com.herzick.houseparty/com.lifeonair.houseparty.ui.routing.RoutingActivity" image="houseparty" />
+    <AppIcon name="com.primatelabs.geekbench/com.primatelabs.geekbench.HomeActivity" image="geekbench4" />
+    <AppIcon name="com.scrapingthebarrel.dimensions/com.unity3d.player.UnityPlayerActivity" image="gatecrasher" />
+    <AppIcon name="com.diune.pictures/com.diune.pictures.ui.Bridge" image="piktures" />
+    <AppIcon name="com.citi.citimobile/com.citi.mobile.pt3.GlobalPhoneActivity" image="citi_mobile" />
 
 
 
