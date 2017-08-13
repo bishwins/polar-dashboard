@@ -19,8 +19,11 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme.Light"
+        android:debuggable="false"
         android:vmSafeMode="true"
         tools:ignore="AllowBackup,GoogleAppIndexingWarning,RtlEnabled,UnusedAttribute">
+
+
 
         <meta-data
             android:name="com.afollestad.polar.util.GlideConfiguration"
