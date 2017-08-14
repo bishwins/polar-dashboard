@@ -3,7 +3,7 @@ ext.versions = [
         compileSdk        : 26,
         buildTools        : '26.0.0',
         publishVersion    : '1.1.0',
-        publishVersionCode: 46,
+        publishVersionCode: 47,
         gradlePlugin      : '2.3.2',
         aptPlugin         : '1.8',
         spotlessPlugin    : '3.4.0',
